@@ -1,6 +1,7 @@
 # 👋 Hi, I'm CH Brown III
 
 I'm pursuing an **M.S. in AI in Business & Enterprise Integration at the University of South Florida**. Expect coursework, experiments, prototypes, rabbit holes, and plenty of things I haven't thought of yet.
+Coursework will show up. Experiments will show up. Random ideas will **definitely** show up. There will probably be entirely too many repositories.
 
 ---
 
@@ -33,37 +34,6 @@ Some of it will become a **valuable learning experience**. 😆
 
 ---
 
-## 🧪 What's Going On Here?
-
-Coursework will show up. Experiments will show up. Random ideas will **definitely** show up.
-
-There will probably be entirely too many repositories.
-
----
-
-## 🐇 Current Rabbit Holes
-
-- Applied AI
-- Machine learning
-- Agentic systems
-- Data & automation
-- Enterprise architecture
-- Whatever catches my attention next
-
----
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clark-digital-leader/)
-
----
-
-## 🐙 And Eventually...
-
-**Kraken.**
-
-*We'll get there.*
-
----
-
-*Still curious. Still building.*
