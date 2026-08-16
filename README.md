@@ -1,6 +1,7 @@
 # 👋 Hi, I'm CH Brown III
 
 I'm pursuing an **M.S. in AI in Business & Enterprise Integration at the University of South Florida**. Expect coursework, experiments, prototypes, rabbit holes, and plenty of things I haven't thought of yet.
+
 Coursework will show up. Experiments will show up. Random ideas will **definitely** show up. There will probably be entirely too many repositories.
 
 ---
